@@ -16,7 +16,7 @@
                 "additionalengrams": [],
                 "itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__107_.PNG",
                 "storedicon": "None",
-                "itemname": "Lesser Elixir of the Broodmother's Tears",
+                "itemname": "Lesser Elixir of the Broodmothers Tears",
                 "itemdescription": "Summon the Broodmother - Gamma difficulty",
                 "itemtextcolor": {"b": 0, "g": 255, "r": 0, "a": 204},
                 "itemtext": "Gamma"
@@ -35,7 +35,7 @@
                 "additionalengrams": [],
                 "itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__108_.PNG",
                 "storedicon": "None",
-                "itemname": "Medium Elixir of the Broodmother's Web Fluid",
+                "itemname": "Medium Elixir of the Broodmothers Web Fluid",
                 "itemdescription": "Summon the Broodmother - Beta difficulty",
                 "itemtextcolor": {"b": 0, "g": 255, "r": 0, "a": 204},
                 "itemtext": "Beta"
@@ -54,7 +54,7 @@
                 "additionalengrams": [],
                 "itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__114_.PNG",
                 "storedicon": "None",
-                "itemname": "Greater Elixir of the Broodmother's Acidic Blood",
+                "itemname": "Greater Elixir of the Broodmothers Acidic Blood",
                 "itemdescription": "Summon the Broodmother - Alpha difficulty",
                 "itemtextcolor": {"b": 0, "g": 0, "r": 255, "a": 204},
                 "itemtext": "Alpha"
@@ -130,7 +130,7 @@
                 "additionalengrams": [],
                 "itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__173_.PNG",
                 "storedicon": "None",
-                "itemname": "Lesser Flames of the Wyvern's Breath",
+                "itemname": "Lesser Flames of the Wyverns Breath",
                 "itemdescription": "Summon the Dragon - Gamma difficulty",
                 "itemtextcolor": {"b": 0, "g": 255, "r": 0, "a": 204},
                 "itemtext": "Gamma"
@@ -149,7 +149,7 @@
                 "additionalengrams": [],
                 "itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__174_.PNG",
                 "storedicon": "None",
-                "itemname": "Medium Flames of the Wyvern's Breath",
+                "itemname": "Medium Flames of the Wyverns Breath",
                 "itemdescription": "Summon the Dragon - Beta difficulty",
                 "itemtextcolor": {"b": 0, "g": 255, "r": 0, "a": 204},
                 "itemtext": "Beta"
@@ -168,7 +168,7 @@
                 "additionalengrams": [],
                 "itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__175_.PNG",
                 "storedicon": "None",
-                "itemname": "Greater Flames of the Wyvern's Breath",
+                "itemname": "Greater Flames of the Wyverns Breath",
                 "itemdescription": "Summon the Dragon - Alpha difficulty",
                 "itemtextcolor": {"b": 0, "g": 0, "r": 255, "a": 204},
                 "itemtext": "Alpha"
@@ -472,7 +472,7 @@
                 "additionalengrams": [],
                 "itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__190_.PNG",
                 "storedicon": "None",
-                "itemname": "Lesser Petrifier's Brew",
+                "itemname": "Lesser Petrifiers Brew",
                 "itemdescription": "Summon the Gorgon - Gamma difficulty",
                 "itemtextcolor": {"b": 255, "g": 101, "r": 0, "a": 204},
                 "itemtext": "Gamma"
@@ -491,7 +491,7 @@
                 "additionalengrams": [],
                 "itemiconurl": "https://raw.githubusercontent.com/Gsparks4545/BossUnlocker/6e8f0ecea5237a116d90a3ca1e7055e74c5361c9/potion__191_.PNG",
                 "storedicon": "None",
-                "itemname": "Medium Petrifier's Brew",
+                "itemname": "Medium Petrifiers Brew",
                 "itemdescription": "Summon the Gorgon - Beta difficulty",
                 "itemtextcolor": {"b": 255, "g": 101, "r": 0, "a": 204},
                 "itemtext": "Beta"
